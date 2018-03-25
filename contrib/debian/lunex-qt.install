@@ -1,0 +1,6 @@
+usr/local/bin/lunex-qt usr/bin
+share/pixmaps/lunex32.xpm usr/share/pixmaps
+share/pixmaps/lunex16.xpm usr/share/pixmaps
+share/pixmaps/lunex128.png usr/share/pixmaps
+debian/lunex-qt.desktop usr/share/applications
+debian/lunex-qt.protocol usr/share/kde4/services/

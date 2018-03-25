@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Lunex
+Comment=Lunex P2P Cryptocurrency
+Comment[fr]=Lunex, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Lunex, eşten eşe kriptografik sanal para birimi
+Exec=lunex-qt %u
+Terminal=false
+Type=Application
+Icon=lunex128
+MimeType=x-scheme-handler/lunex;
+Categories=Office;Finance;
